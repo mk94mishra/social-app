@@ -17,13 +17,13 @@ This project provides an API for a social networking application built with Djan
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/mk94mishra/social-app.git
+    git clone https://github.com/mk94mishra/social_app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd social-app
+    cd social_app
     ```
 
 3. Install dependencies:
@@ -46,13 +46,13 @@ If you prefer to use Docker for development, follow these steps:
 1. Clone the repository (if you haven't already):
 
     ```bash
-    git clone https://github.com/mk94mishra/social-app.git
+    git clone https://github.com/mk94mishra/social_app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd social-app
+    cd social_app
     ```
 
 3. Build and run Docker containers:
